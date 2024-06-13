@@ -1,2 +1,3 @@
 # BigDataSenac
-Estudos- BIG DATA senac
+
+Códigos feitos durante as aulas.
